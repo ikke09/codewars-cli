@@ -12,40 +12,40 @@ const ProgrammingLanguages = {
         extension: '.java'
     },
     Python: {
-        name: 'JS',
-        extension: '.js'
+        name: 'Python 3',
+        extension: '.py'
     },
     C: {
-        name: 'JS',
-        extension: '.js'
+        name: 'C Language',
+        extension: '.c'
     },
     Dart: {
-        name: 'JS',
-        extension: '.js'
+        name: 'Dart',
+        extension: '.dart'
     },
     Haskell: {
-        name: 'JS',
-        extension: '.js'
+        name: 'Haskell',
+        extension: '.hs'
     },
     Lua: {
-        name: 'JS',
-        extension: '.js'
+        name: 'Lua',
+        extension: '.lua'
     },
     PHP: {
-        name: 'JS',
-        extension: '.js'
+        name: 'PHP',
+        extension: '.php'
     },
     Ruby: {
-        name: 'JS',
-        extension: '.js'
+        name: 'Ruby',
+        extension: '.rb'
     },
     Rust: {
-        name: 'JS',
-        extension: '.js'
+        name: 'Rust',
+        extension: '.rs'
     },
     SQL: {
-        name: 'JS',
-        extension: '.js'
+        name: 'SQL',
+        extension: '.sql'
     },
 };
 
